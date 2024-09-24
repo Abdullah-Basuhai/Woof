@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_name_2">Lola</string>
+    <string name="dog_name_3">Frankie</string>
+    <string name="dog_name_4">Nox</string>
+    <string name="dog_name_5">Faye</string>
+    <string name="dog_name_6">Bella</string>
+    <string name="dog_name_7">Moana</string>
+    <string name="dog_name_8">Tzeitel</string>
+    <string name="dog_name_9">Leroy</string>
+    <string name="dog_name_10">Charlie</string>
+    <string name="dog_name_11">Luna</string>
+    <string name="dog_name_12">Max</string>
+    <string name="dog_name_13">Ruby</string>
+    <string name="dog_name_14">Cooper</string>
+    <string name="dog_name_15">Daisy</string>
+    <string name="dog_name_16">Rocky</string>
+    <string name="dog_name_17">Sadie</string>
+    <string name="dog_name_18">Oliver</string>
+    <string name="dog_description_1">Eating treats on the terrace</string>
+    <string name="dog_description_2">Barking at Daddy</string>
+    <string name="dog_description_3">Stealing socks</string>
+    <string name="dog_description_4">Meeting new animals</string>
+    <string name="dog_description_5">Digging in the garden</string>
+    <string name="dog_description_6">Chasing sea foam</string>
+    <string name="dog_description_7">Bothering her paw-rents</string>
+    <string name="dog_description_8">Sunbathing</string>
+    <string name="dog_description_9">Sleeping in dangerous places</string>
+    <string name="dog_description_10">Playing fetch in the park</string>
+    <string name="dog_description_11">Snuggling on the couch</string>
+    <string name="dog_description_12">Going for a walk in the woods</string>
+    <string name="dog_description_13">Chewing on a favorite toy</string>
+    <string name="dog_description_14">Begging for scraps at the table</string>
+    <string name="dog_description_15">Learning new tricks </string>
+    <string name="dog_description_16">Making friends at the dog park</string>
+    <string name="dog_description_17">Howling at the moon</string>
+    <string name="dog_description_18">Getting a bath (and not liking it!)</string>
+
+
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+</resources>
