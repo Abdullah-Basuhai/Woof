@@ -37,7 +37,7 @@ import com.example.woof.ui.theme.WoofTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContent {
+        setContent { // Starting Point
             WoofTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(
